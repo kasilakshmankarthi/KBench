@@ -8,7 +8,7 @@ Add benchmarks for Performance model simulation/FPGA Emulation studies </br>
 (3) ctx_latr [To study content switch performance] </br>
 (4) ipc-bench [Upstream clone from https://github.com/rigtorp/ipc-bench] </br>
 (5) hackbench [To study kernel scheduler] </br>
-(6) qproc [Pulled proc tests from lmbench and run with fixed iterations] </br>
+(6) kproc [Pulled proc tests from lmbench and run with fixed iterations] </br>
 
 Scripts </br>
 ====== </br>
