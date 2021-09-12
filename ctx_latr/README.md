@@ -36,10 +36,10 @@ system on which one processor is employed for context switch measurement while t
 
 3. Output:
 
-    measureSingle outputs time1
+    measureSingle outputs time1 \n
         time1 = Overhead of traversing through array + pipe overhead
 
-    measureSwitch outputs time2
+    measureSwitch outputs time2 \n
         time2 = time1 + context switch overhead
 
     total cost of context switch    = time2 - time1 (microseconds)
