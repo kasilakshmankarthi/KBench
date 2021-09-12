@@ -1,7 +1,7 @@
 Quantifying the cost of context switch
 ======================================
 
-Note that this is not my own code but rather imported from the archived sources here:
+Code is inspired and updated from the below archived sources:
  * http://cs.rochester.edu/u/cli/research/switch.htm
 The original authors and the corresponding paper can be found here:
  * http://dl.acm.org/citation.cfm?id=1281702
